@@ -128,7 +128,6 @@ In modern energy systems, especially PNG-based concepts, atomization is not only
 ---
 
 ## Related Modules (PNG System)
-
-- Combustion Mechanism  
+  
 - Fuel Injection Dynamics  
 - Catalyst Process Optimization
