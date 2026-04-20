@@ -60,7 +60,8 @@ Characteristics:
 ---
 ## Figure 3.1: Fuel Atomization Process
 
-![Fuel Atomization Diagram](diagrams/2d0ec1c0c188420448f1228f6a137de7af05f50e74d6a0c66d2869a17ca18ea8.png)
+![Fuel Atomization Diagram](2d0ec1c0c188420448f1228f6a137de7af05f50e74d6a0c66d2869a17ca18ea8.png)
+
 
 ## 4. Role of Atomization in PNG Fuel Systems
 
