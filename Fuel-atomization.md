@@ -131,4 +131,4 @@ In modern energy systems, especially PNG-based concepts, atomization is not only
 
 - Combustion Mechanism  
 - Fuel Injection Dynamics  
-- Thermodynamic Efficiency Models
+- Catalyst Process Optimization
