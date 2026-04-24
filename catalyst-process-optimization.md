@@ -135,8 +135,10 @@ Requires:
 
 ---
 
-## Figure 1: Catalyst Process Optimization Framework
-*(Insert diagram here showing PNG catalytic reactor, Fe–Ni catalyst bed, and syngas conversion flow)*
+
+## Figure 5.1: Catalyst Process Optimization Framework
+
+![Catalyst Process Optimization Framework](images/pasted-image-20260421193622.png)
 
 ---
 
