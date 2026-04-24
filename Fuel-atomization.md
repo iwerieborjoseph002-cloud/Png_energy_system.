@@ -126,6 +126,12 @@ The transition from coarse to fine atomization:
 In modern energy systems, especially PNG-based concepts, atomization is not only a mechanical process but a critical design variable in next-generation fuel technologies.
 
 ---
+## 8.0 External Integration
+
+This module is supported by a detailed blog post that expands on the principles of fuel atomization, including spray behavior, performance implications, and real-world engineering insights.
+
+🔗 Blog Reference:  
+https://iwerieborjoseph.blogspot.com/2026/04/fuel-atomization-principles-performance.html
 
 ## Related Modules (PNG System)
   
