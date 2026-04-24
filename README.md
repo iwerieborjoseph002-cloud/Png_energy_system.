@@ -85,4 +85,4 @@ This repository serves as the central hub for all PNG Energy System engineering 
 
 The foundational research document is available in the main repository:
 
-➡️ [Main PNG Energy System Repository](PUT_YOUR_MAIN_REPO_LINK_HERE)
+[Main PNG Energy System Repository](  https://github.com/iwerieborjoseph002-cloud/PNG-Pure-Natural-Gas-Research/blob/main/PNG-Pure-Natural-Gas-Research%20PDF)
