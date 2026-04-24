@@ -1,2 +1,88 @@
-# Png_energy_system.
-       Fuel atomization in PNG (pure Natural Gas) energy system is the conversion of liquid fuel into fine mist to maximize air-fuel interaction, improving combustion efficiency, ignition stability, and reducing soot and emissions in energy conversion systems.
+# PNG Energy System – GitHub Module Status
+
+## Overview
+The PNG (Pure Natural Gas) Energy System is a modular engineering research project focused on fuel atomization, catalytic conversion, combustion analysis, and hybrid energy integration.
+
+---
+
+## System Modules (7 Total)
+
+### 1. Fuel Atomization (Completed)
+- Spray angle and droplet formation  
+- Air–fuel mixing behavior  
+- Combustion efficiency impact  
+- PNG vs conventional fuel comparison  
+
+**Outcome:** Established baseline atomization model for combustion efficiency analysis.
+
+🔗 https://github.com/iwerieborjoseph002-cloud/Png_energy_system/blob/main/Fuel-atomization.md
+
+---
+
+### 2. Catalyst Process Optimization (Completed)
+- Fe–Ni catalytic reactions  
+- Temperature and pressure tuning  
+- Hydrocarbon formation (C1–C20)  
+
+This module covers catalyst efficiency, reaction control, and system optimization within the PNG Energy System.
+
+🔗 https://github.com/iwerieborjoseph002-cloud/Png_energy_system/blob/main/catalyst-process-optimization.md
+
+---
+
+### 3. Fuel Injection Dynamics (In Progress)
+- Injector nozzle flow behavior  
+- Pressure-based fuel dispersion  
+- Spray formation timing  
+
+---
+
+### 4. Combustion Stability and Knock Analysis (Pending)
+- Knock formation mechanisms  
+- Flame propagation behavior  
+- Pressure wave dynamics  
+
+---
+
+### 5. Hybrid Energy Integration System (Pending)
+- PNG and renewable energy coupling  
+- Hybrid power architecture  
+- Emission reduction modelling  
+
+---
+
+### 6. Sensor and Atomization Alert System (Pending)
+- Real-time combustion monitoring  
+- Injection quality detection  
+- System fault alerts  
+
+---
+
+### 7. Advanced Process Optimization (Pending)
+- System-wide efficiency modeling  
+- Integrated performance optimization  
+- Energy loss minimization strategies  
+
+---
+
+## System Integration Insight
+
+The PNG Energy System is designed as an interconnected process:
+
+Fuel Injection → Atomization → Catalytic Conversion → Combustion → Energy Output → Monitoring & Optimization
+
+Each module contributes to overall system efficiency and performance.
+
+---
+
+## Repository Structure
+
+This repository serves as the central hub for all PNG Energy System engineering modules. Each module is developed as a standalone technical document and integrated into the overall system architecture.
+
+---
+
+## Reference Document
+
+The foundational research document is available in the main repository:
+
+➡️ [Main PNG Energy System Repository](PUT_YOUR_MAIN_REPO_LINK_HERE)
