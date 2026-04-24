@@ -135,11 +135,10 @@ Requires:
 
 ---
 
-
-
 ## Figure 5.1: Catalyst Process Optimization Framework
 
-![Catalyst Process Optimization Framework](images/catalyst-process-optimization-framework.png)
+![Catalyst Process Optimization Framework](images/pasted-image-20260421193622.png)
+
 
 *Figure 5.1 illustrates the catalyst reactor system, showing process parameters, syngas flow, and optimization pathways within the PNG Energy System.*
 
