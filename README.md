@@ -33,7 +33,11 @@ This module covers catalyst efficiency, reaction control, and system optimizatio
 ### 3. Fuel Injection Dynamics (Completed)
 - Injector nozzle flow behavior  
 - Pressure-based fuel dispersion  
-- Spray formation timing  
+- Spray formation timing
+
+   Reference module:
+
+https://github.com/iwerieborjoseph002-cloud/Png_energy_system/blob/main/fuel-injection-dynamics.md
 
 ---
 
