@@ -37,6 +37,8 @@ This module covers catalyst efficiency, reaction control, and system optimizatio
 
 ---
 
+https://github.com/iwerieborjoseph002-cloud/Png_energy_system/blob/main/fuel-injection-dynamics.md
+
 ### 4. Combustion Stability and Knock Analysis (Pending)
 - Knock formation mechanisms  
 - Flame propagation behavior  
