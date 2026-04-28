@@ -63,10 +63,23 @@ Jet breakup occurs through instability mechanisms:
 - Spray penetration length  
 - Cone angle  
 - Droplet size distribution  
-
 —
-
 ## Figure 2.1 – Fuel Injection Flow and Spray Formation
+
+![Fuel injection jet breakup into ligaments and droplets forming a spray cone inside the combustion chamber.](./images/fuel-injection-dynamics.png "Fuel Injection Dynamics in PNG Energy System")
+
+**This figure illustrates:**
+
+The transition of fuel from a high-pressure liquid jet at the injector nozzle into a dispersed multiphase spray within the combustion chamber, highlighting jet breakup, droplet formation, and spray cone development.
+
+**Engineering significance:**
+- Pressure energy → kinetic jet energy  
+- Jet instability → atomization  
+- Spray geometry → mixing efficiency  
+
+**System role in PNG architecture:**
+Injection → Spray Formation → Air–Fuel Mixing → Ignition → Combustion → Energy Output  
+---
 
 ### Description
 This figure illustrates the transition of fuel from a high-pressure liquid jet at the injector nozzle into a dispersed multiphase spray structure inside the combustion chamber.
