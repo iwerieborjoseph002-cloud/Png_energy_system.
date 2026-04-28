@@ -217,6 +217,10 @@ Role:
 - Controls reaction efficiency  
 - Stabilizes system output  
 
+For extended explanation and system discussion:
+
+https://iwerieborjoseph.blogspot.com/2026/04/fuel-injection-dynamics-in-png-pure.html
+
 ---
 
 ## 9. CONCLUSION
