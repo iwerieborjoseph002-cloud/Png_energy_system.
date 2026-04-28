@@ -87,3 +87,82 @@ This figure represents the fundamental physical transition in fuel injection dyn
 
 ### System role in PNG Energy Architecture
 Injection → Spray Formation → Air–Fuel Mixing → Ignition → Combustion → Energy Output
+## 3. INJECTION SYSTEM CONTROL PARAMETERS
+
+### 3.1 Injection Pressure (ΔP)
+- Higher pressure → finer droplets  
+- Higher pressure → better mixing  
+- Higher pressure → stable combustion  
+
+---
+
+### 3.2 Nozzle Geometry
+- Orifice diameter  
+- L/D ratio  
+- Hole orientation  
+
+Controls spray angle and mixing zone formation.
+
+---
+
+### 3.3 Fuel Properties
+- Density (ρ)  
+- Viscosity (μ)  
+
+Effects:
+- Higher viscosity → larger droplets  
+- Higher density → higher jet momentum  
+
+---
+
+### 3.4 Thermal Conditions
+- High temperature → improved vaporization  
+- Low temperature → liquid persistence  
+
+---
+
+### 3.5 Injection Timing (SOI / DOI / EOI)
+- SOI = Start of Injection  
+- DOI = Duration of Injection  
+- EOI = End of Injection  
+
+Controls:
+- Combustion phasing  
+- Ignition delay  
+- Peak pressure timing  
+
+---
+
+## 4. NUMERICAL ANALYSIS
+
+Given:
+- C_d = 0.85  
+- A = 1.5 × 10⁻⁶ m²  
+- ΔP = 3 × 10⁶ Pa  
+- ρ = 750 kg/m³  
+
+**Calculation:**
+
+Q = C_d A √(2ΔP / ρ)
+
+Q ≈ 1.14 × 10⁻⁴ m³/s
+
+### 4.1 Interpretation
+- Q ≈ 0.114 L/s  
+- High-velocity injection regime  
+- Supports fine atomization  
+
+---
+
+## 5. COMBUSTION SYSTEM ARCHITECTURE
+
+Injection → Spray Formation → Air–Fuel Mixing → Ignition Kernel Formation → Flame Propagation → Energy Output
+
+### Functional mapping
+- Injection → momentum input  
+- Spray → spatial distribution  
+- Mixing → equivalence ratio control  
+- Ignition → combustion start  
+- Flame → energy release rate  
+
+---
