@@ -208,7 +208,10 @@ Maximize combustion efficiency (ηc)
 
 ## 8. SYSTEM INTEGRATION (PNG ARCHITECTURE)
 
-- Fuel Atomization Module  
+- Fuel Atomization Module
+  
+https://github.com/iwerieborjoseph002-cloud/Png_energy_system/blob/main/Fuel-atomization.md
+   
 - Catalyst Process Module  
 - Combustion Output Module  
 
