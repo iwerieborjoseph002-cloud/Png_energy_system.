@@ -208,11 +208,12 @@ Maximize combustion efficiency (ηc)
 
 ## 8. SYSTEM INTEGRATION (PNG ARCHITECTURE)
 
-- Fuel Atomization Module
-  
+- Fuel Atomization Module 
 https://github.com/iwerieborjoseph002-cloud/Png_energy_system/blob/main/Fuel-atomization.md
    
 - Catalyst Process Module  
+https://github.com/iwerieborjoseph002-cloud/Png_energy_system/blob/main/catalyst-process-optimization.md
+   
 - Combustion Output Module  
 
 Role:
@@ -221,7 +222,6 @@ Role:
 - Stabilizes system output  
 
 For extended explanation and system discussion:
-
 https://iwerieborjoseph.blogspot.com/2026/04/fuel-injection-dynamics-in-png-pure.html
 
 ---
