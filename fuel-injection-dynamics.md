@@ -66,7 +66,7 @@ Jet breakup occurs through instability mechanisms:
 —
 ## Figure 2.1 – Fuel Injection Flow and Spray Formation
 
-![Fuel injection jet breakup into ligaments and droplets forming a spray cone inside the combustion chamber.](./images/fuel-injection-dynamics.png "Fuel Injection Dynamics in PNG Energy System")
+![Fuel injection spray formation](./ff39eaf87c889e417aeae5a23bfcd8091608342953c7945fea87363da7ec8111.png)
 
 **This figure illustrates:**
 
