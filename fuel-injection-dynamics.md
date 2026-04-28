@@ -166,3 +166,47 @@ Injection → Spray Formation → Air–Fuel Mixing → Ignition Kernel Formatio
 - Flame → energy release rate  
 
 ---
+
+## 6. ENGINEERING APPLICATIONS
+- Internal combustion engines (SI / CI)  
+- Gas energy systems  
+- Hybrid PNG catalytic systems  
+- Injection research platforms  
+
+---
+
+## 7. OPTIMIZATION FRAMEWORK
+
+### Variables
+- ΔP (pressure)  
+- A (geometry)  
+- SOI / DOI / EOI  
+- Fuel properties  
+
+### Objective
+Maximize combustion efficiency (ηc)
+
+### Constraints
+- Stable ignition  
+- Low emissions  
+- Controlled pressure rise  
+
+---
+
+## 8. SYSTEM INTEGRATION (PNG ARCHITECTURE)
+
+- Fuel Atomization Module  
+- Catalyst Process Module  
+- Combustion Output Module  
+
+Role:
+- Defines boundary condition  
+- Controls reaction efficiency  
+- Stabilizes system output  
+
+---
+
+## 9. CONCLUSION
+Fuel injection dynamics define the foundational control layer of the PNG Energy System. Performance is governed by pressure, geometry, timing, and fuel properties.
+
+
