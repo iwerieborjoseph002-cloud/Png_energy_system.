@@ -149,3 +149,38 @@ The following figure compares normal combustion and knocking phenomena inside a 
 ---
 
 
+## 4.7 PNG Energy System Interpretation
+
+Knock is fundamentally a **time-scale mismatch problem**:
+
+- Chemical ignition delay vs flame propagation time  
+- Controlled by mixture quality rather than ignition timing alone  
+
+Improved atomization leads to:
+- Faster evaporation  
+- Homogeneous mixture  
+- Reduced hot spots  
+- Stable combustion  
+
+---
+
+## 4.8 Engineering Insight
+
+Combustion stability improves when:
+- Ignition delay is controlled  
+- Flame propagation is uniform  
+- Pressure oscillations are minimized  
+
+---
+
+## 4.9 Conclusion
+
+Knock is a coupled thermodynamic and kinetic instability caused by:
+- premature auto-ignition  
+- uneven mixture formation  
+- pressure wave resonance  
+
+The PNG Energy System reduces knock by optimizing **pre-combustion fuel–air preparation**, not only ignition timing.
+
+
+
