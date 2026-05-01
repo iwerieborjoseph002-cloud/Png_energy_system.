@@ -173,7 +173,31 @@ Combustion stability improves when:
 
 ---
 
-## 9 Conclusion
+## 9 Related Work (PNG Energy System)
+
+### Core Modules
+- **Fuel Atomization in Internal Combustion Engine**  
+  https://github.com/iwerieborjoseph002-cloud/Png_energy_system/blob/main/Fuel-atomization.md
+
+- **Fuel Injection Dynamics**  
+  https://github.com/iwerieborjoseph002-cloud/Png_energy_system/blob/main/fuel-injection-dynamics.md
+
+- **Catalyst Process Optimization**  
+  https://github.com/iwerieborjoseph002-cloud/Png_energy_system/blob/main/catalyst-process-optimization.md
+
+### External Publications (Blog)
+- **PNG Energy System Overview**  
+  https://iwerieborjoseph.blogspot.com/2026/04/png-pure-natural-gas-energy-project.html
+
+- **Combustion Mechanism in PNG Energy System**  
+  https://iwerieborjoseph.blogspot.com/2026/04/combustion-mechanism-in-png-energy.html
+
+- **Engine Knocking Phenomenon and Role of PNG Fuel in Combustion Stability**  
+  https://iwerieborjoseph.blogspot.com/2026/04/engine-knocking-phenomenon-and-role-of.html
+
+  ---
+
+## 10 Conclusion
 
 Knock is a coupled thermodynamic and kinetic instability caused by:
 - premature auto-ignition  
