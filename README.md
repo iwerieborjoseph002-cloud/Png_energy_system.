@@ -40,10 +40,13 @@ https://github.com/iwerieborjoseph002-cloud/Png_energy_system/blob/main/fuel-inj
 
 ---
 
-### 4. Combustion Stability and Knock Analysis (Pending)
+### 4. Combustion Stability and Knock Analysis (Completed)
 - Knock formation mechanisms  
 - Flame propagation behavior  
-- Pressure wave dynamics  
+- Pressure wave dynamics
+  
+🔗 Module Reference:  
+https://github.com/iwerieborjoseph002-cloud/Png_energy_system/blob/main/combustion-stability-and-knock-analysis.md
 
 ---
 
