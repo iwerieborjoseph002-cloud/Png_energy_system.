@@ -1,8 +1,8 @@
-# 4.0 Combustion Stability and Knock Analysis
+#  Combustion Stability and Knock Analysis
 
 ---
 
-## 4.1 Introduction
+## 1 Introduction
 
 Combustion stability refers to an engine's ability to maintain a consistent and controlled heat release rate during combustion.
 
@@ -13,11 +13,11 @@ In the PNG Energy System, combustion stability is treated as a **pre-combustion 
 
 ---
 
-## 4.2 Knock Formation Mechanism (Thermo-Kinetic Model)
+## 2 Knock Formation Mechanism (Thermo-Kinetic Model)
 
 Knock occurs when the unburned end-gas auto-ignites before the flame front arrives.
 
-### 4.2.1 Knock Condition
+### 2.1 Knock Condition
 
 $$
 \tau_{ign} < \tau_{flame}
@@ -29,7 +29,7 @@ Where:
 
 ---
 
-### 4.2.2 Ignition Delay Model (Arrhenius Form)
+### 2.2 Ignition Delay Model (Arrhenius Form)
 
 $$
 \tau_{ign} = A p^{-n} e^{\frac{E_a}{RT}}
@@ -45,7 +45,7 @@ Where:
 
 ---
 
-## 4.3 Flame Propagation Behavior
+## 3 Flame Propagation Behavior
 
 Flame propagation determines combustion uniformity and energy release rate.
 
@@ -60,7 +60,7 @@ Where:
 
 ---
 
-## 4.4 Pressure Wave Dynamics
+## 4 Pressure Wave Dynamics
 
 Knock is a resonant pressure oscillation inside the combustion chamber.
 
@@ -75,7 +75,7 @@ Where:
 
 ---
 
-## 4.5 Solved Examples
+## 5 Solved Examples
 
 ### Example 1: Knock Condition Check
 
@@ -112,21 +112,21 @@ Case B (fine droplets):
 
 ---
 
-## 4.6 Engineering Diagram
+## 6 Engineering Diagram
 
-### 4.6.1 Conceptual Illustration
+### 6.1 Conceptual Illustration
 
 The following figure compares normal combustion and knocking phenomena inside a cylinder.
 
 ---
 
-###  Figure 4.1: Normal Combustion vs Knock
+###  Figure 6.1: Normal Combustion vs Knock
 
 ![Combustion Stability and Knock Analysis](https://raw.githubusercontent.com/iwerieborjoseph002-cloud/Png_energy_system/main/49f65f1f91514f860b64fced4f67f75cf968e64247f99407ce967fed4cd36a06.png)
 
 ---
 
-### 4.6.2 Figure Description
+### 6.2 Figure Description
 
 **Left: Normal Combustion**
 - Uniform air–fuel mixture  
@@ -149,7 +149,7 @@ The following figure compares normal combustion and knocking phenomena inside a 
 ---
 
 
-## 4.7 PNG Energy System Interpretation
+## 7 PNG Energy System Interpretation
 
 Knock is fundamentally a **time-scale mismatch problem**:
 
@@ -164,7 +164,7 @@ Improved atomization leads to:
 
 ---
 
-## 4.8 Engineering Insight
+## 8 Engineering Insight
 
 Combustion stability improves when:
 - Ignition delay is controlled  
@@ -173,7 +173,7 @@ Combustion stability improves when:
 
 ---
 
-## 4.9 Conclusion
+## 9 Conclusion
 
 Knock is a coupled thermodynamic and kinetic instability caused by:
 - premature auto-ignition  
