@@ -122,7 +122,7 @@ The following figure compares normal combustion and knocking phenomena inside a 
 
 ###  Figure 4.1: Normal Combustion vs Knock
 
-![Combustion Stability Diagram](images/module4-knock-combustion.png)
+![Combustion Stability and Knock Analysis](49f65f1f91514f860b64fced4f67f75cf968e64247f99407ce967fed4cd36a06.png
 
 ---
 
